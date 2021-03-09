@@ -1,0 +1,2 @@
+[assmbly:AssemblyKeyFileAttribute("ANA.snk)]
+[assembly:AssemblyDelaySignAttribute(true)]
